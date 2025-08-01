@@ -43,10 +43,10 @@ tooltip: false
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: zu_im
-description: "Demo site build with L1nkr & Hugo"
+title: MAIN
+description: "Студия Татуировки Санкт-Петербург"
 images:
-  - thumbnail.png
+  - image.png
 
 params:
   social_icons:

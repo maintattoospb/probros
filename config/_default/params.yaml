@@ -46,7 +46,7 @@ tooltip: false
 title: MAIN
 description: "Студия Татуировки Санкт-Петербург"
 images:
-  - https://tg.okolotattooing.ru/assets/image.png
+  - image.png
 
 params:
   social_icons:

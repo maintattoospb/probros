@@ -1,0 +1,54 @@
+############################
+## Author
+############################
+
+author:
+  name: Main Tattoo
+  image: author.png
+  greeting: "Студия Татуировки Санкт-Петербург"
+  icon: "🖤"
+
+############################
+## Links
+############################
+
+links:
+  - website : https://okolotattooing.com/main-tattoo/
+  - telegram: https://click.tgtrack.ru/97699a5d5db1af?tag=yandex
+
+############################
+## Colunms of Links
+############################
+
+monochrome: true
+
+# between 2 & 6 columns are supported (both incl)
+columns: 2
+
+###########################
+## Icon text
+###########################
+
+# add the icon name to each icon
+icontext: false
+
+############################
+## Tooltips
+############################
+
+# add tooltips on all icons
+tooltip: false
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: zu_im
+description: "Demo site build with L1nkr & Hugo"
+images:
+  - thumbnail.png
+
+params:
+  social_icons:
+    - name: "vk"
+      icon: "vk"
